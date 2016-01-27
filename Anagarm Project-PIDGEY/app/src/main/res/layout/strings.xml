@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <string name="app_name">Anagram</string>
+    <string name="play">Play</string>
+    <string name="credits">Credits</string>
+    <string name="creditsTitle">Created by</string>
+    <string name="author1">Temitope Alaga</string>
+    <string name="author2">Garrett Steffan</string>
+    <string name="author3">Yuri Santos</string>
+    <string name="tutorial">How to Play</string>
+    <string name="action_settings">Settings</string>
+    <string name="authors">Created by Temitope Alaga, Garrett Steffan, Yuri Santos</string>
+    <string name="back">Back</string>
+    <string name="tutorialText">
+        Use the letters of word displayed on the screen to make new words
+    </string>
+    <string name="anagramMessage">Drag the letters below to create a new word</string>
+    <string name="successMessage">Success! You win!</string>
+
+    <string name="p1">saucy tea dot</string>
+    <string name="s1">taco tuesday</string>
+
+    <string name="p2">auto hub wits</string>
+    <string name="s2">without a bus</string>
+
+    <string name="p3">nice dong thievery</string>
+    <string name="s3">code in everything</string>
+
+    <string name="p4">banks alert</string>
+    <string name="s4">blank stare</string>
+
+    <string name="p5">abolish tennis gipsy</string>
+    <string name="s5">anything is possible</string>
+
+    <string name="p6">rave crust erie</string>
+    <string name="s6">vice treasurer</string>
+
+    <string name="p7">goth trip</string>
+    <string name="s7">top right</string>
+
+    <string name="p8">oak boo dog</string>
+    <string name="s8">a good book</string>
+
+    <string name="p9">berry bum guy</string>
+    <string name="s9">buy my burger</string>
+
+    <string name="p10">beehive sod tom</string>
+    <string name="s10">move the bodies</string>
+
+    <string name="p11">sassy chosen pill</string>
+    <string name="s11">physical lessons</string>
+
+    <string name="p12">solar dusk</string>
+    <string name="s12">dark souls</string>
+
+    <string name="p13">mad meal slag</string>
+    <string name="s13">small damage</string>
+
+    <string name="p14">booth rouse</string>
+    <string name="s14">robot house</string>
+
+</resources>
